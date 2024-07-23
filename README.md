@@ -8,7 +8,7 @@ Data spurce: [Link](https://www.kaggle.com/datasets/nikhil7280/student-performan
 ## Dataset
 The dataset includes the following variables:
 <ul>
-  <li><b>Hours Studied</b>b: The total number of hours spent studying;</li>
+  <li><b>Hours Studied</b>: The total number of hours spent studying;</li>
   <li>Previous Scores: The scores obtained by students in previous assessments;</li>
   <li>Extracurricular Activities: Whether the student participated in extracurricular activities;</li>
   <li>Sleep Hours: The average number of hours of sleep per night;</li>
