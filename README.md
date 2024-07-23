@@ -1,7 +1,9 @@
 # Student-Performance-Regression-Project
 
 ## Project Overview
-This project aims to predict student performance based on various factors such as hours studied, previous scores, participation in extracurricular activities, average sleep hours, and the number of sample question papers practiced. Please note that this dataset is synthetic and created for illustrative purposes. The relationships between the variables and the performance index may not reflect real-world scenarios. The source of the data can be found [here](https://www.kaggle.com/datasets/nikhil7280/student-performance-multiple-linear-regression).
+This project aims to predict student performance based on various factors such as hours studied, previous scores, participation in extracurricular activities, average sleep hours, and the number of sample question papers practiced. 
+
+Please be aware that this dataset is synthetic and has been created for illustrative purposes only. The relationships between the variables and the performance index may not accurately represent real-world scenarios. You can find the source of the data [here](https://www.kaggle.com/datasets/nikhil7280/student-performance-multiple-linear-regression).
 
 ## Dataset
 The dataset includes the following variables:
