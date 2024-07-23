@@ -6,8 +6,7 @@ This project aims to predict student performance based on various factors such a
 Data spurce: [Link](https://www.kaggle.com/datasets/nikhil7280/student-performance-multiple-linear-regression)
 
 ## Dataset
-The dataset includes the following variables:\n
-
+The dataset includes the following variables:
 <ul>
   <li>Hours Studied: The total number of hours spent studying;</li>
   <li>Previous Scores: The scores obtained by students in previous assessments;</li>
