@@ -8,10 +8,10 @@ Data spurce: [Link](https://www.kaggle.com/datasets/nikhil7280/student-performan
 The dataset includes the following variables:\n
 
 <ul>
-  <li>**Hours Studied**: The total number of hours spent studying;</li>
-  <li>**Previous Scores**: The scores obtained by students in previous assessments;</li>
-  <li>**Extracurricular Activities**: Whether the student participated in extracurricular activities;</li>
-  <li>**Sleep Hours**: The average number of hours of sleep per night;</li>
-  <li>**Sample Question Papers Practiced**: The number of sample question papers practiced;</li>
-  <li>**Performance Index**: A measure of the overall performance of the student.</li>
+  <li>Hours Studied: The total number of hours spent studying;</li>
+  <li>Previous Scores: The scores obtained by students in previous assessments;</li>
+  <li>Extracurricular Activities: Whether the student participated in extracurricular activities;</li>
+  <li>Sleep Hours: The average number of hours of sleep per night;</li>
+  <li>Sample Question Papers Practiced: The number of sample question papers practiced;</li>
+  <li>Performance Index: A measure of the overall performance of the student.</li>
 </ul>
