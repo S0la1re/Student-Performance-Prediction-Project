@@ -25,4 +25,11 @@ The dataset includes the following variables:
 
 ## Regression Analysis
 
+Regression analysis was performed using Excel.
+
 ![image](https://github.com/user-attachments/assets/27ef87ac-3c24-40ca-8963-5f50f9cc11e6)
+
+After conducting the analysis, the following conclusions can be drawn:
+1. The ANOVA table tests the overall significance of the regression model and shows an extremely low p(0) value. This indicates that the model is significant overall.
+2. The high R Square (0.9887) suggests that the model explains nearly 99% of the variance in academic performance, implying that it is highly effective in predicting or explaining students' scores based on these variables.
+3. Based on the p-values, all independent variables (predictors) are significant.
