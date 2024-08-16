@@ -1,4 +1,4 @@
-# Student-Performance-Regression-Project
+# Student-Performance-Prediction-Project
 
 ## Project Overview
 This project aims to predict student performance based on various factors such as hours studied, previous scores, participation in extracurricular activities, average sleep hours, and the number of sample question papers practiced. 
