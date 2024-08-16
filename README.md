@@ -13,14 +13,13 @@ Please be aware that this dataset is synthetic and has been created for illustra
 ## Dataset
 
 The dataset includes the following variables:
-<ul>
-  <li><b>Hours Studied</b>: The total number of hours spent studying;</li>
-  <li><b>Previous Scores</b>: The scores obtained by students in previous assessments;</li>
-  <li><b>Extracurricular Activities</b>: Whether the student participated in extracurricular activities;</li>
-  <li><b>Sleep Hours</b>: The average number of hours of sleep per night;</li>
-  <li><b>Sample Question Papers Practiced</b>: The number of sample question papers practiced;</li>
-  <li><b>Performance Index</b>: A measure of the overall performance of the student.</li>
-</ul>
+
+- **Hours Studied**: The total number of hours spent studying;
+- **Previous Scores**: The scores obtained by students in previous assessments;
+- **Extracurricular Activities**: Whether the student participated in extracurricular activities;
+- **Sleep Hours**: The average number of hours of sleep per night;
+- **Sample Question Papers Practiced**: The number of sample question papers practiced;
+- **Performance Index**: A measure of the overall performance of the student.
 
 ## Regression Analysis
 
