@@ -1,4 +1,4 @@
-# Student-Performance-Prediction-Project
+# Student Performance Prediction Project
 
 ## Project Overview
 This project is focused on predicting student performance based on various academic and behavioral factors using a robust multiple linear regression model.
